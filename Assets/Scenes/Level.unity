@@ -728,7 +728,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pointsForPopBalls: 10
   percentPoppedBallsForWin: 0.7
-  roundTimeLimit: 10
+  roundTimeLimit: 30
   ballsSpawner: {fileID: 243670273}
   hudView: {fileID: 1149870407}
   pauseMenu: {fileID: 568347000}
